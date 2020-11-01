@@ -416,13 +416,13 @@ figure.effect-honey:hover h2 i {
 
 #contact {
   color: white;
-  background-image: url(../img/copy.jpg);
+  background-image: url(../img/alpha.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  min-height: 850px;
+/*  min-height: 850px;
   position: relative;
   padding-bottom: 50px;
-  padding-top: 60px;
+  padding-top: 60px;*/
 }
 
 .tm-underline {
