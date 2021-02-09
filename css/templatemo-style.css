@@ -581,14 +581,18 @@ p {
     max-width: 220px;
     margin-left: auto;
     margin-right: auto;
+text-shadow: 2px 2px 2px #333;
   }
-
+.mb-5 p{
+text-shadow: 2px 2px 2px #333;
+	}
   .slick-dots li {
     margin: 0 8px;
   }
 
   .tm-gallery-item {
     margin: 0;
+text-shadow: 2px 2px 2px #333;
   }
 }
 
