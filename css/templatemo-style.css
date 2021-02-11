@@ -594,6 +594,9 @@ text-shadow: 2px 2px 2px #333;
     margin: 0;
 text-shadow: 2px 2px 2px #333;
   }
+ .row > col-12{
+   text-shadow: 2px 2px 2px #333;
+}
 }
 
 @media (max-width: 420px) {
@@ -602,4 +605,7 @@ text-shadow: 2px 2px 2px #333;
     margin-left: 0;
     margin-top: 20px;
   }
+  .row > col-12{
+   text-shadow: 2px 2px 2px #333;
+	}
 }
