@@ -534,6 +534,9 @@ p {
 }
 
 @media (max-width: 991px) {
+  .tm-container-contact {
+    text-shadow: 2px 2px 2px #333;
+  }
   .tm-intro-text-container {
     padding-left: 15px;
     padding-top: 30px;
