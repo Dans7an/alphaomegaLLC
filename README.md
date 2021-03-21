@@ -5,9 +5,10 @@ https://dans7an.github.io/alphaomegaLLC/
 ![gif](demo.gif)
 
 <h3>How It's Made:</h3>
-Tech used: HTML, CSS and JavaScript
+## Tech used:
+HTML, CSS and JavaScript
 
-I used Paint.Net to sketch both the header and footer images
+I used Paint.Net to sketch both the header and footer images which is the company logo
 
 <h3>Optimizations</h3>
 I initially had issues with configuring the footer image and text on safari so I had to twick with a few CSS property inorder to maintain a similar look across different devices
