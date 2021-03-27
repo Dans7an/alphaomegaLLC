@@ -4,8 +4,8 @@ alphaomegaLLC is a website I built for a drywall company based in New Jersey tha
 https://dans7an.github.io/alphaomegaLLC/
 ![gif](demo.gif)
 
-<h3>How It's Made:</h3>
-## Tech used:
+## How It's Made:
+### Tech used:
 HTML, CSS and JavaScript
 
 I used Paint.Net to sketch both the header and footer images which is the company logo
